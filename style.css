@@ -20,15 +20,14 @@
     height: 70px;
 }
 
-.links {
-    list-style: none;
-    display: flex;
-    gap: 20px;
+.link1 {
     text-decoration: none;
-    color: black;
-    font-weight: bold;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-right: 50px;
+    color: #333333ff;
+    font-size: 18px;
 }
-
 
 .navbar2 {
     background-color: rgba(240, 248, 255, 0.6);
@@ -81,7 +80,7 @@
 
 .gallery{
     display: flex;
-    gap: 0;
+
 }
 
 .gallery img {
@@ -102,7 +101,7 @@
 .group {
     display: flex;
     justify-content: center;
-    gap: 40px;
+   
 }
 
 .testimonial {
